@@ -7,11 +7,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ducluan22&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [A PHP Ecommerce Website](https://github.com/DucLuan22/ecommerce_website)
-
-- 🌱 I’m currently learning **ReactJS, Express, and Redux**
-
-- 📫 How to reach me **ducluandang22@gmail.com**
+📫 How to reach me **ducluandang22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
